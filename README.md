@@ -34,4 +34,4 @@ Woooow! Que demais, hein? 💙
 
 A ideia aqui é você recriar esse **[layout](<https://www.figma.com/file/FWk4ZzVeK4pYzBT7qdJ5PA/Explore-sem-limites-(Copy)?type=design&node-id=158-678&t=dpLGFdDPHNPK8BtZ-0>)** mas, diferente dos desafios iniciais que possuem apenas uma tela, esse tem mais de uma seção…
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://rafaeldsal.github.io/explore-sem-limite/?#)
